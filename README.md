@@ -4,4 +4,4 @@ Recolors incoming heal prediction on unit frames and party/raid frames.
 
 ## Releasing
 
-Push a tag like `v1.0.1`. GitHub Actions packages the addon and uploads it to CurseForge.
+On GitHub, go to Actions → Package and release → Run workflow and enter a version like `v1.0.1` (or push a tag like that). GitHub Actions packages the addon and uploads it to CurseForge.
