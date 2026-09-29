@@ -1,0 +1,8 @@
+## Interface: 11507
+## Title: Incoming Heal Color
+## Notes: Recolors incoming heal prediction on unit frames and party/raid frames.
+## Author: Adam
+## Version: @project-version@
+## SavedVariables: IncomingHealColorDB
+
+IncomingHealColor.lua
