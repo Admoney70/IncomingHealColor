@@ -3,6 +3,7 @@
 ## Notes: Recolors incoming heal prediction on unit frames and party/raid frames.
 ## Author: Adam
 ## Version: @project-version@
+## X-Curse-Project-ID: 1718513
 ## SavedVariables: IncomingHealColorDB
 
 IncomingHealColor.lua
