@@ -1,4 +1,4 @@
-## Interface: 11507
+## Interface: 16001
 ## Title: Incoming Heal Color
 ## Notes: Recolors incoming heal prediction on unit frames and party/raid frames.
 ## Author: Adam
